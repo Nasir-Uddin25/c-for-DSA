@@ -1,0 +1,41 @@
+int             ->  10^9
+long int        -> 10^12
+long long int   -> 10^18
+
+
+//C++ print statement
+std:: cout << "Hello World!";
+
+---> <<" "          space print kore
+---> std::endl      new line print kore
+
+//input output format
+#include <iostream> 
+using namespace std;
+int main()
+{
+    int x;
+    cin >> x;           // cin C++ input 
+    cout << x << endl;  // cout C++ output  //endl new line
+    return 0;
+}
+
+//Typecasting
+char c = 'A';
+cout << (int)c; // 65
+
+int x = 97;
+cout << (char)x; //a
+
+//If-else statement
+if(condition)
+{
+    //statement 1;
+}
+else{
+    //statement 2;
+}
+
+//Ternary Operator if else
+(condition) ? True : Flas;
+

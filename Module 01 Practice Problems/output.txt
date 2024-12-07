@@ -1,0 +1,3 @@
+floor is: 6
+Ceil is : 7
+Round is : 7
